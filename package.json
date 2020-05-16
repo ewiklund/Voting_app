@@ -1,0 +1,27 @@
+{
+  "name": "Voting_app",
+  "version": "1.0.0",
+  "description": "FCC Build a Voting App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Elisabeth Wiklund-Papadopulos",
+  "license": "ISC",
+  "dependencies": {
+    "angular-jwt": "^0.1.11",
+    "bcrypt": "^4.0.1",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.2.1",
+    "mongoose": "^5.9.14",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
