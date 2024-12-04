@@ -17,7 +17,7 @@ User Story: As an unauthenticated or authenticated user, I can see the results o
 
 User Story: As an authenticated user, if I don't like the options on a poll, I can create a new option.
 
-===========================================================================================================================
+=================================================================================================================
 From the browser, access http://localhost:3000. First, register a user and you will be redirected to your Profile. 
 Add polls to the end of the URL like so: http://localhost:3000/polls. 
 Here you can see existing polls and vote for them. You can also add polls as a logged in user.
